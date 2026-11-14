@@ -1,0 +1,17 @@
+# Build trees
+/build/
+/build-*/
+/cmake-build-*/
+/out/
+
+# Editors and tools
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+__pycache__/
+compile_commands.json
+
+# Local notes that are not part of the repository
+/PUBLISH_NOTES.md

@@ -1,0 +1,29 @@
+window,impl,peak_bytes_per_value
+64,paged,18.1
+64,paged (buffers in use),16.0
+64,multiset,56.2
+64,two_heaps,85.4
+64,sorted_array,24.4
+64,nth_element,16.2
+64,sort,16.2
+1024,paged,40.8
+1024,paged (buffers in use),20.0
+1024,multiset,56.1
+1024,two_heaps,76.9
+1024,sorted_array,24.0
+1024,nth_element,16.0
+1024,sort,16.0
+65536,paged,40.9
+65536,paged (buffers in use),19.4
+65536,multiset,56.0
+65536,two_heaps,78.4
+65536,sorted_array,24.0
+65536,nth_element,16.0
+65536,sort,16.0
+1048576,paged,40.2
+1048576,paged (buffers in use),18.9
+1048576,multiset,56.0
+1048576,two_heaps,79.0
+1048576,sorted_array,24.0
+1048576,nth_element,16.0
+1048576,sort,16.0

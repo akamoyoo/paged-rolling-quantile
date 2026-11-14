@@ -1,0 +1,2 @@
+add_executable(rolling_quantile_cli rolling_quantile_cli.cpp)
+target_link_libraries(rolling_quantile_cli PRIVATE rq_project_options)
